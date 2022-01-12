@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../middleware"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../touchclass-admin-main"
+		}
+	],
+	"settings": {}
+}
